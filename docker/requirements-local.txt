@@ -1,0 +1,4 @@
+pybigquery
+shillelagh[gsheetsapi]
+mysqlclient
+psycopg2
